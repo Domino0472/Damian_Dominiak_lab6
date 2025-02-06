@@ -7,11 +7,11 @@ Przykłady gatunków zagrożonych
 
 Gatunki lądowe
 
-Tygrys syberyjski (Panthera tigris altaica) Tygrys syberyjski, również znany jako tygrys amurski, jest jednym z największych kotów na świecie. Jego naturalnym siedliskiem są lasy iglaste i liściaste Rosji. Obecnie populacja tygrysów syberyjskich jest szacowana na mniej niż 600 osobników na wolności, a głównymi przyczynami zagrożeń są kłusownictwo oraz utrata siedlisk spowodowana wycinką lasów.
+    Tygrys syberyjski (Panthera tigris altaica) Tygrys syberyjski, również znany jako tygrys amurski, jest jednym z największych kotów na świecie. Jego naturalnym siedliskiem są lasy iglaste i liściaste Rosji. Obecnie populacja tygrysów syberyjskich jest szacowana na mniej niż 600 osobników na wolności, a głównymi przyczynami zagrożeń są kłusownictwo oraz utrata siedlisk spowodowana wycinką lasów.
 
-Nosorożec czarny (Diceros bicornis) Nosorożec czarny, zamieszkujący Afrykę, jest zagrożony z powodu kłusownictwa. Ich rogi są cenione w medycynie tradycyjnej oraz jako trofea. Pomimo wysiłków ochronnych populacja nosorożca czarnego jest nadal krytycznie niska, co czyni go jednym z najbardziej zagrożonych ssaków na świecie.
+    Nosorożec czarny (Diceros bicornis) Nosorożec czarny, zamieszkujący Afrykę, jest zagrożony z powodu kłusownictwa. Ich rogi są cenione w medycynie tradycyjnej oraz jako trofea. Pomimo wysiłków ochronnych populacja nosorożca czarnego jest nadal krytycznie niska, co czyni go jednym z najbardziej zagrożonych ssaków na świecie.
 
-Panda wielka (Ailuropoda melanoleuca) Panda wielka jest symbolem ochrony przyrody i żyje głównie w górskich lasach bambusowych w Chinach. Dzięki intensywnym wysiłkom ochronnym, liczba pand wielkich powoli rośnie, lecz utrata siedlisk i fragmentacja lasów nadal stanowią poważne zagrożenie dla ich przetrwania.
+    Panda wielka (Ailuropoda melanoleuca) Panda wielka jest symbolem ochrony przyrody i żyje głównie w górskich lasach bambusowych w Chinach. Dzięki intensywnym wysiłkom ochronnym, liczba pand wielkich powoli rośnie, lecz utrata siedlisk i fragmentacja lasów nadal stanowią poważne zagrożenie dla ich przetrwania.
 
 Gatunki morskie
 
