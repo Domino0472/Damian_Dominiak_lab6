@@ -13,6 +13,7 @@ Welcome to Lab_4_Project's documentation!
    Rozdzial_1
    Rozdzial_2
    Rozdzial_3
+   Rozdzial_4
    Bibliografia
 
 
