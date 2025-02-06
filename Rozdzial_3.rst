@@ -1,31 +1,12 @@
-========
-Wnioski
-========
+==================
+Przyczyny zagrożeń
+==================
 
-Lorem ipsum dolor sit amet. Ut soluta perspi-
-ciatis et ducimus veritatis sed aspernatur vo-
-luptas qui iste eius ab nobis accusamus? In vo-
-luptate voluptates qui assumenda incidunt qui
-autem dolores! Ut quia eligendi et labore no-
-bis ad nesciunt quam qui numquam deleniti
-id dolores aspernatur eum veniam dolores aut
-consequuntur temporibus.
-Non eveniet aperiam et quisquam consequ-
-atur est sapiente accusantium vel Quis perspi-
-ciatis eum consequatur neque? Est alias labore
-eum reiciendis illum aut beatae sunt et quisqu-
-am consequuntur sed galisum mollitia vel offi-
-cia Quis sed rerum rerum?
-Qui nemo eius qui nostrum atque ut tene-
-tur adipisci. Ut nulla provident in galisum iste
-sit illo amet aut culpa repudiandae eos accusa-
-mus blanditiis quo quia nesciunt non ipsa vo-
-luptas. Ut blanditiis deleniti aut veritatis iure
-vel nemo aliquam quo ducimus illo rem fugit
-itaque! Non dolores accusamus vel rerum nulla
-aut quam quia ea laborum autem.
-Lorem ipsum dolor sit amet. Ut soluta per-
-spiciatis et ducimus veritatis sed aspernatur
-voluptas qui iste eius ab nobis accusamus? In
-voluptate voluptates qui assumenda incidunt
+
+	Zagrożenia dla gatunków zwierząt są różnorodne i często wynika z działalności człowieka. Do głównych przyczyn należą:
+•	Kłusownictwo: Nielegalne polowania na zwierzęta w celu pozyskania ich cennych części, takich jak kości, skóry czy rogi. Przykładem jest polowanie na nosorożce dla ich rogów, które są wykorzystywane w tradycyjnej medycynie azjatyckiej.
+•	Utrata siedlisk: Wycinka lasów, urbanizacja i rolnictwo prowadzą do niszczenia naturalnych siedlisk zwierząt. Zmniejszenie powierzchni lasów deszczowych jest dużym zagrożeniem dla wielu gatunków, w tym orangutanów.
+•	Zmiany klimatyczne: Wzrost temperatury i zmiany w opadach wpływają na ekosystemy i mogą prowadzić do wymierania gatunków. Topnienie lodowców Arktki stanowi zagrożenie dla niedźwiedzi polarnych.
+•	Zanieczyszczenia: Chemikalia, plastik i inne zanieczyszczenia w wodach i na lądzie stanowią poważne zagrożenie dla zwierząt. Przykładem są żółwie morskie, które mylą plastikowe torby z meduzami, co prowadzi do ich śmierci.
+
 
